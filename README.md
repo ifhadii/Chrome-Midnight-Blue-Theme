@@ -1,13 +1,20 @@
 # Chrome Midnight Blue Theme
 
+- Alhamdulillah 
+
 Welcome to the **Chrome Midnight Blue Theme** repository! This theme gives your Chrome browser a sleek, professional look with a midnight blue color palette. Customize the colors of your theme easily to suit your preferences.
+
+Thanks to **[AndrewGDX](https://chromewebstore.google.com/detail/midnight-white/clkfnlehhgaafnehkdcfejlapchmdicn)** for the inspiration and original creation of the Midnight White theme. This theme builds upon AndrewGDX's work and offers a variation with a midnight blue palette.
+
+
 
 ## Table of Contents
 
 1. [Installation](#installation)
 2. [How to Use](#how-to-use)
 3. [How to Customize the Theme Colors](#how-to-customize-the-theme-colors)
-4. [License](#license)
+4. [How to Add a Background Image](#how-to-add-a-background-image)
+5. [License](#license)
 
 ---
 
