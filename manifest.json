@@ -10,7 +10,7 @@
       "tab_text": [255, 255, 255],
       "tab_background_text": [255, 255, 255],
       "bookmark_text": [255, 255, 255],
-      "ntp_background": [44, 53, 59],  // background color updated to #2c353b
+      "ntp_background": [73, 86, 94],  // background color updated to #2c353b
       "ntp_text": [255, 255, 255],
       "ntp_link": [43, 53, 60],
       "button_background": [45, 53, 59, 0.01]
